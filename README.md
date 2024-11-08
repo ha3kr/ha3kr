@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Redwan (aka Sherwood Chaser)—a full-stack web developer  & ethical hacker from Morocco.
+I specialize in the MERN stack, creating both frontend and backend systems that are performant and scalable. My experience extends to Next.js and React, where I focus on modern UI/UX principles, ensuring that the apps I build aren’t just functional but also a pleasure to use.
+
+On the cybersecurity side, I have experience in ethical hacking and network security, with knowledge in OWASP Top 10 vulnerabilities and common web application security risks. I’m passionate about identifying vulnerabilities and fortifying systems, keeping user data safe and secure.
 
 
 ## 🌐 Socials:
